@@ -1,0 +1,67 @@
+$primary: #fff !important;
+$secondary: #4c56c0 !important;
+$success: #06d6a0 !important;
+$info: #fa607e !important;
+$light: #f9f9f9 !important;
+$dark: #3d46a7 !important;
+
+$theme-colors: (
+    "primary": $primary,
+    "secondary": $secondary,
+    "success": $success,
+    "info": $info,
+    "light": $light,
+    "dark": $dark,
+);
+
+.bg-primary {
+    background: $primary;
+}
+
+.bg-secondary {
+    background: $secondary;
+}
+
+.bg-success {
+    background: $success;
+}
+
+.bg-info {
+    background: $info;
+}
+
+.bg-light {
+    background: $light;
+}
+
+.bg-dark {
+    background: $dark;
+}
+
+.btn-info {
+    background: $info;
+}
+
+.text-secondary {
+    color: $secondary;
+}
+
+.text-info {
+    color: $info;
+}
+
+::placeholder {
+    /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: $light;
+    opacity: 0.5 !important; /* Firefox */
+}
+
+:-ms-input-placeholder {
+    /* Internet Explorer 10-11 */
+    color: $light;
+}
+
+::-ms-input-placeholder {
+    /* Microsoft Edge */
+    color: $light;
+}

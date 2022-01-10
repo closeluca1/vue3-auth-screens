@@ -1,0 +1,74 @@
+.bg-primary {
+  background: #fff !important;
+}
+
+.bg-secondary {
+  background: #4c56c0 !important;
+}
+
+.bg-success {
+  background: #06d6a0 !important;
+}
+
+.bg-info {
+  background: #fa607e !important;
+}
+
+.bg-light {
+  background: #f9f9f9 !important;
+}
+
+.bg-dark {
+  background: #3d46a7 !important;
+}
+
+.btn-info {
+  background: #fa607e !important;
+}
+
+.text-secondary {
+  color: #4c56c0 !important;
+}
+
+.text-info {
+  color: #fa607e !important;
+}
+
+::-webkit-input-placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #f9f9f9 !important;
+  opacity: 0.5 !important;
+  /* Firefox */
+}
+
+:-ms-input-placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #f9f9f9 !important;
+  opacity: 0.5 !important;
+  /* Firefox */
+}
+
+::-ms-input-placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #f9f9f9 !important;
+  opacity: 0.5 !important;
+  /* Firefox */
+}
+
+::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #f9f9f9 !important;
+  opacity: 0.5 !important;
+  /* Firefox */
+}
+
+:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: #f9f9f9 !important;
+}
+
+::-ms-input-placeholder {
+  /* Microsoft Edge */
+  color: #f9f9f9 !important;
+}
+/*# sourceMappingURL=mainstyle.css.map */
