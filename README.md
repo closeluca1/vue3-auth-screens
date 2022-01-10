@@ -1,5 +1,7 @@
 # vue3-auth-screens
 Foi aplicado `Bootstrap@5^` e Sass para criar o layout, usando Vue3 and router 
+  - if you wanna see the page working on github pages
+    - https://closeluca1.github.io/vue3-auth-screens/
 
 - Login
 ![image](https://user-images.githubusercontent.com/57973233/148838747-9657232e-6bf8-4c4a-bc98-980bdccfa606.png)
